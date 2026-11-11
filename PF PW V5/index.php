@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <title>Volovanes Hechos con amor</title>
+    <!-- Favicon-->
+    <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+    <!-- Core theme CSS (includes Bootstrap)-->
+    <link href="css/styles.css" rel="stylesheet" />
+</head>
+
+<body>
+    <!-- Responsive navbar-->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container px-5">
+            <a class="navbar-brand" href="index.php">Volovanes HA</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                    <li class="nav-item"><a class="nav-link active" aria-current="page" href="index.php">Inicio</a></li>
+                    <li class="nav-item"><a class="nav-link" href="productos.php">Productos</a></li>
+                    <li class="nav-item"><a class="nav-link" href="dashboard.php">Iniciar Sersion</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!-- Page Content-->
+    <div class="container px-4 px-lg-6">
+        <!-- Heading Row-->
+        <div class="row gx-4 gx-lg-6 align-items-center my-5">
+            <div class="col-lg-5"><img class="img-fluid rounded mb-4 mb-lg-0" src="assets/logo.png"
+                    alt="Logo de Volovanes" /></div>
+            <div class="col-lg-6 text-center">
+                <h1 class="font-weight-light">El Autentico Sabor Artesanal</h1>
+                <p>Disfruta de la mejor textura crujiente y sabores artesanales inolvidables en cada bocado. Horneamos
+                    diariamente con ingredientes de la más alta calidad para ofrecerte una experiencia única.</p>
+                <a class="btn btn-primary" href="productos.php">Compralos Ya !!!</a>
+            </div>
+        </div>
+        <!-- Call to Action-->
+        <div class="card text-white bg-secondary my-5 py-4 text-center">
+            <div class="card-body">
+                <p class="text-white m-0 fs-1">"Crujientes por fuera, hechos con amor por dentro"</p>
+            </div>
+        </div>
+        <!-- Content Row-->
+        <div class="row gx-4 gx-lg-4 justify-content-center">
+            <div class="col-md-4 mb-4   ">
+                <div class="card h-100">
+                    <div class="card-body">
+                        <img src="assets/facelogo.png" class="w-25 mx-auto d-block" alt="...">
+                        <h2 class="card-title text-center">Facebook</h2>
+                        <p class="card-text text-center"> ¡Hola! 🥐✨ ¿Se te antoja un volován calientito y crocante para
+                            hoy? No te quedes con la duda
+                            de qué sabores tenemos preparados para ti. Síguenos en nuestra página de Facebook para
+                            conocer el menú completo,
+                            ver las fotos de nuestros productos y no perderte ninguna de nuestras promociones
+                            especiales. </p>
+                    </div>
+                    <div class="card-body text-center">
+                        <a href="https://www.facebook.com/profile.php?id=61590202933223">Link Directo</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                    <div class="card-body">
+                        <img src="assets/whatsapplogo.webp" class="w-25 mx-auto d-block" alt="...">
+                        <h2 class="card-title text-center">WhatsApp</h2>
+                        <p class="card-text text-center"> 🥐🔥 ¡El verdadero sabor crujiente y calientito está aquí!
+                            Nuestros volovanes están recién horneados,
+                            bien rellenitos y listos para quitarte el antojo. 🤤 Checa nuestros sabores, promociones del
+                            día y
+                            haz tu pedido directamente por WhatsApp dándole clic al siguiente enlace: </p>
+                    </div>
+                    <div class="card-body text-center">
+                        <a href="https://www.facebook.com/profile.php?id=61590202933223">Link Directo</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Footer-->
+    <footer class="py-5 bg-dark">
+        <div class="container px-4 px-lg-5">
+            <p class="m-0 text-center text-white">Copyright &copy; Alexander Website 2026</p>
+        </div>
+    </footer>
+    <!-- Bootstrap core JS-->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Core theme JS-->
+    <script src="js/scripts.js"></script>
+</body>
+
+</html>
